@@ -1,3 +1,7 @@
-#IOS CALCULATOR WITH SIN AND COS OPERATIONS
+# iOS CALCULATOR WITH TRIGNOMETRIC OPERATIONS
 
-##Heading 1
+An Android App developed on Visual Studio which is a simple calculator for standard Addition, Subtraction, Multiplication, Division, Percentage but with a little twist.
+The twist happens to be having the option to find trignometric operations in a certain value on the iOS calculator.
+
+## Language
+It is created using visual studio with languages such as HTML, CSS AND JAVASCRIPT.
