@@ -7,3 +7,4 @@ The twist happens to be having the option to find trignometric operations in a c
 It is created using visual studio with languages such as HTML, CSS AND JAVASCRIPT.
 
 ## Screenshot
+![iOS CALCULATOR](https://github.com/Fahid046/IOS-2/assets/87539989/c5a7ec66-2426-4788-940c-c11ddf4df807)
